@@ -4,5 +4,6 @@
 
 
 See an example of my tiling script here: [Tiling-Script.ijm](https://drive.google.com/file/d/15wRHVoVAbrOyTXsQjYzU-Et6QN-rmXsO/preview)
+- This script pixelizes the video data and measures the brightness value throughout the video and separates out the lighter and darker regions after the user enters a threshold to review. 
 
 See an example of my ROI manipulation script here: [ROI_Manipulation.ijm](https://drive.google.com/file/d/15XQpEg39tdX3tGreMJMH9fLCfj_Tmzrs/view?usp=sharing)
